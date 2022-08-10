@@ -1,2 +1,2 @@
 # cousrse
-instructored by osama el zero
+instroctured by osama el zero
